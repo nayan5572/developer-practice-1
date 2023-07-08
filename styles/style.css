@@ -1,0 +1,55 @@
+body {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/*---header css start---*/
+.header-bg {
+    height: 800px;
+    background-image: url('../images/banner/banner2.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.header-article {
+    width: 525px;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    bottom: 125px;
+    padding-right: 230px;
+}
+
+.header-title {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+
+.header-description {
+    color: #444343;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.header-btn {
+    background-color: #F15B22;
+    border: 0;
+    padding: 20px 25px;
+    color: #FFF;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+/*---header css end---*/
